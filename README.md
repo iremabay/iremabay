@@ -3,7 +3,7 @@
 I'm a computer engineering student from Turkey, I am currently learning programming languages like Python, C/C++, Java and trying to gain new skills.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
 </div>
 
 
