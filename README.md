@@ -34,9 +34,10 @@ I'm a computer engineering student from Turkey, I am currently learning programm
 ---
 
 ### :fire: My Stats :
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremabay&layout=compact&theme=nightowl" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremabay&show_icons=true&theme=nightowl" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iremabay&show_icons=true&theme=nightowl" />
 </a>
