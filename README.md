@@ -10,7 +10,13 @@ I'm a computer engineering student from Turkey, I am currently learning programm
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iremabay/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="105"/>
+    <a href="https://medium.com/@irem-abay">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" width="100"/>
+</a>
+
+</a>
+
 </div>
   
 <div id="badges" align="center"><div id="badges" align="center"> 
